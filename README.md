@@ -8,7 +8,7 @@ This project allows downloading Sentinel-2 products using EODAG and the Copernic
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AlexEco1/Sentinel-2-download-with-eodag.git
 cd eodag_download
 ```
 
