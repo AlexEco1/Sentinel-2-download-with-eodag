@@ -9,7 +9,7 @@ This project allows downloading Sentinel-2 products using EODAG and the Copernic
 
 ```bash
 git clone https://github.com/AlexEco1/Sentinel-2-download-with-eodag.git
-cd eodag_download
+cd Sentinel-2-download-with-eodag
 ```
 
 ### 2️⃣ Create and Activate the Conda Environment
